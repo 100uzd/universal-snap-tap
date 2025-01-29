@@ -1,0 +1,3 @@
+This is a basic universal Snaptap. When you open it for the first time, it will ask you to press the button you want to use to deactivate Snaptap. (if it crashes force close it and open again)
+
+It’s useful because when Snaptap is enabled, it causes double-clicking issues while typing. To avoid this, disable it using the keybind. When Snaptap is disabled, you won’t experience double-clicking, but you also can’t move left or right. If anyone wants to improve it, feel free to fix the code and share your updates. You can mention me if you like, but it’s open-source, so do what you want. Because the code isn’t clean, ask ChatGPT to beautify it and change the values to more readable ones.
